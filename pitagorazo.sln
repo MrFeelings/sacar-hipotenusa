@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pitagorazo", "pitagorazo\pitagorazo.csproj", "{79EDCC6B-E183-4509-AD4A-9E4D0BE2DC0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{EAB2AFCC-3275-468A-9DB3-BF4A52A4FC20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79EDCC6B-E183-4509-AD4A-9E4D0BE2DC0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EDCC6B-E183-4509-AD4A-9E4D0BE2DC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EDCC6B-E183-4509-AD4A-9E4D0BE2DC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EDCC6B-E183-4509-AD4A-9E4D0BE2DC0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAB2AFCC-3275-468A-9DB3-BF4A52A4FC20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB2AFCC-3275-468A-9DB3-BF4A52A4FC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB2AFCC-3275-468A-9DB3-BF4A52A4FC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB2AFCC-3275-468A-9DB3-BF4A52A4FC20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC8F5290-3554-419B-8FD5-551E6D7A5F3D}
+	EndGlobalSection
+EndGlobal
